@@ -17,7 +17,7 @@ Below is the detailed content of this repository
 │       ├── get_git_advisories.py.......... scripts used to get GitHub Adviosry reports.
 │       ├── huntr_spider.py................ scripts used to get Huntr reports.
 │       └── snyk_spider_for_src.py......... scripts used to get Snyk reports.
-│   └── data_cleansing..................... used to collect importance scores from the models.
+│   └── data_cleansing..................... used to clease VD datasets.
 │       ├── gpt_cleansing.py............... use GPT to cleanse the function-level PyVul.
 │       └── read_chatgpt_filter_results.py. process GPT results.
 │
